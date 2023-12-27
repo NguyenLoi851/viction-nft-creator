@@ -1,0 +1,9 @@
+[submodule "fe/nft-creator"]
+	path = fe/nft-creator
+	url = https://github.com/NguyenLoi851/viction-nft-creator-fe
+[submodule "be/viction-nft-creator-be"]
+	path = be/viction-nft-creator-be
+	url = https://github.com/NguyenLoi851/viction-nft-creator-be
+[submodule "sc/viction-nft-creator-sc"]
+	path = sc/viction-nft-creator-sc
+	url = https://github.com/NguyenLoi851/viction-nft-creator-sc
